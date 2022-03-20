@@ -10,6 +10,11 @@ hello <- function(){
 }
 
 
+greeting <- function(){
+  print("how are you")
+}
+
+
 
 
 
